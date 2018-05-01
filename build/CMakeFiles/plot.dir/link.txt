@@ -1,0 +1,1 @@
+/usr/bin/c++  -g -O0 -g  -rdynamic CMakeFiles/plot.dir/implement/Test.cpp.o CMakeFiles/plot.dir/implement/Heatmap/Stamp.cpp.o CMakeFiles/plot.dir/implement/Color/HSV.cpp.o CMakeFiles/plot.dir/implement/Color/RGB.cpp.o  -o plot -lGLU -lGL -lglut -lXi 

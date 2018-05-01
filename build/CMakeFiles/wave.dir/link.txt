@@ -1,0 +1,1 @@
+/usr/bin/c++  -g -O0 -g  -rdynamic CMakeFiles/wave.dir/implement/Test.cpp.o CMakeFiles/wave.dir/implement/Heatmap/Stamp.cpp.o  -o wave -lGLU -lGL -lglut -lXi 

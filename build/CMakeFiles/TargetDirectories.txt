@@ -1,0 +1,3 @@
+/home/jacob/plot/build/CMakeFiles/rebuild_cache.dir
+/home/jacob/plot/build/CMakeFiles/plot.dir
+/home/jacob/plot/build/CMakeFiles/edit_cache.dir

@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/plot/Heatmap/Heatmap.hpp
+plot/Support/Interval.hpp
+../include/plot/Heatmap/plot/Support/Interval.hpp
+
+../include/plot/Heatmap/Stamp.hpp
+cstddef
+-
+cstring
+-
+
+../include/plot/Support/Interval.hpp
+algorithm
+-
+type_traits
+-
+
+/home/jacob/plot/implement/Heatmap/Stamp.cpp
+plot/Heatmap/Stamp.hpp
+/home/jacob/plot/implement/Heatmap/plot/Heatmap/Stamp.hpp
+
+/home/jacob/plot/implement/Test.cpp
+plot/Heatmap/Heatmap.hpp
+/home/jacob/plot/implement/plot/Heatmap/Heatmap.hpp
+
